@@ -1,4 +1,4 @@
-# BitzPrice
+# BitcoinPrice
 
 > Sample Next.js app which whos the current Bitcoin value in USD, GBP and EUR
 
@@ -19,8 +19,7 @@ npm run build
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Igor Costa
 
 ### Version
 
